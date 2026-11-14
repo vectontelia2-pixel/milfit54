@@ -1,0 +1,14 @@
+{
+  "name": "MILFIT 54",
+  "short_name": "MILFIT",
+  "lang": "sv",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f3ed",
+  "theme_color": "#172b25",
+  "description": "Tränings- och hälsodagbok som fungerar lokalt utan konto.",
+  "icons": [
+    {"src":"/milfit-logo-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},
+    {"src":"/milfit-logo.svg","sizes":"512x512","type":"image/svg+xml","purpose":"any"}
+  ]
+}
